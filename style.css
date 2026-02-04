@@ -170,15 +170,15 @@ footer{
 @media (max-width: 1000px) { /* Mobile View */
 
     nav{
-    width: 62vw;
-    height: 18vh;
+    width: 65vw;
+    height: 20vh;
     flex-direction: column;
     justify-content: space-around;
    }
 
 nav:hover{
-    width: 55vw;
-    height: 15vh;
+    width: 65vw;
+    height: 20vh;
 }
 
 ul{
